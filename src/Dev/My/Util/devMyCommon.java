@@ -2,6 +2,10 @@ package Dev.My.Util;
 
 import java.util.HashMap;
 
+/*
+ * 테스트
+ */
+
 public class devMyCommon {
 	
 	//회차, Array Goal Numbers
